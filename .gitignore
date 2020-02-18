@@ -1,0 +1,5 @@
+# object files
+obj
+
+# don't put roms in the repo
+SONIC2_W.68K
